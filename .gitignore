@@ -1,1 +1,13 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Compiled files
 *.exe
+*.out
+
+# IDE
+.vscode/
